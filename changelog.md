@@ -1,6 +1,5 @@
 # changelog
 
-
 ### What's new in 1.24.0
 
 * **🚨Security Fix** \(ES\) search template handling fix

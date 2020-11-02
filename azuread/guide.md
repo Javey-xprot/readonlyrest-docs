@@ -157,7 +157,7 @@ An example of SAML assertion object coming from Azure AD after successful authen
 
 1. Now point your browser to your Kibana installation \(in the example [https://localhost:5601](https://localhost:5601)\).
 
-   You should now see a new blue button that says "Azure AD SAML SSO". 
+   You should now see a new blue button that says "Azure AD SAML SSO".
 
 ![ROR login](../.gitbook/assets/ror_ent_login.png)
 
